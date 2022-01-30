@@ -791,7 +791,7 @@ textarea {
   }
 
   .scroller {
-    font-size: var(--fs-800);
+    font-size: calc(var(--fs-800) - .5rem);
   }
   .circle-icon {
     margin: 1rem;
@@ -808,7 +808,7 @@ textarea {
     font-size: calc(var(--fs-700) - 0.2rem);
   }
 
-  /* COntact Me */
+  /* Contact Me */
   #contact form {
     width: 100%;
   }
