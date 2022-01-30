@@ -791,7 +791,7 @@ textarea {
   }
 
   .scroller {
-    font-size:var(--fs-600);
+    font-size:calc(var(--fs-600) + 1rem);
   }
   .circle-icon {
     margin: 1rem;
