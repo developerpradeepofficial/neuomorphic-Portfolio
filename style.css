@@ -79,6 +79,7 @@ body {
   line-height: 1.6;
   color: var(--greyLight-3);
   /* text-shadow: 0 0 1px var(--primary); */
+  overflow-x: hidden;
 }
 img {
   object-fit: cover;
@@ -801,7 +802,7 @@ textarea {
   }
 
   .skill-list span > i {
-    font-size: calc(var(--fs-800) - 1rem);
+    font-size: calc(var(--fs-700) - 0.2rem);
   }
 
   /* COntact Me */
