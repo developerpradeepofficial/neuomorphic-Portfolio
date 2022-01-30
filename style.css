@@ -73,7 +73,8 @@ i {
   margin-right: 0.5rem;
 }
 body {
-  font-family: "Roboto";
+/*   font-family: "Roboto"; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 0;
   margin: 0;
   line-height: 1.6;
