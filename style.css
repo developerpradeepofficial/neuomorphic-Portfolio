@@ -329,6 +329,8 @@ nav {
   font-size: 120%;
 }
 .profile-img {
+  min-wisth: 127px;
+  min-height: 127px;
   width: 12rem;
   padding: 0.5rem;
   box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2),
