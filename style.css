@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&family=Russo+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&family=Russo+One&display=swap");
 :root {
   /* Neuomorphism Theme */
   --primary-light: #8abdff;
@@ -74,9 +74,9 @@ i {
   margin-right: 0.5rem;
 }
 body {
-/*   font-family: "Roboto"; */
-/*   font-family: Verdana, sans-serif; */
-  font-family: 'Montserrat', sans-serif;
+  /*   font-family: "Roboto"; */
+  /*   font-family: Verdana, sans-serif; */
+  font-family: "Montserrat", sans-serif;
   padding: 0;
   margin: 0;
   line-height: 1.6;
@@ -271,6 +271,7 @@ input:checked + .slider:before {
 
 main.container {
   min-height: 90vh;
+  padding-bottom: 1.5rem;
 }
 nav {
   position: relative;
@@ -793,7 +794,7 @@ textarea {
   }
 
   .scroller {
-    font-size:calc(var(--fs-700) + 1rem);
+    font-size: calc(var(--fs-700) + 1rem);
     width: 100%;
   }
   .circle-icon {
