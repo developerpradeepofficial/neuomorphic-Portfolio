@@ -776,6 +776,9 @@ textarea {
 
 /* Mobile Screen */
 @media (max-width: 35rem) {
+  .profile-container {
+    padding-bottom: 1rem;
+  }
   main.container {
     padding: 0;
   }
