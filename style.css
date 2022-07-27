@@ -330,7 +330,7 @@ nav {
   font-size: 120%;
 }
 .profile-img {
-  min-wisth: 12rem;
+  min-width: 12rem;
   min-height: 12rem;
   width: 12rem;
   padding: 0.5rem;
@@ -338,6 +338,7 @@ nav {
     -0.2rem -0.2rem 0.5rem var(--white);
   border-radius: 50%;
   margin-inline: auto;
+  overflow: hidden;
 }
 .mobile-nav-toggle {
   display: none;
