@@ -8,13 +8,11 @@
   --greyLight-2: #090909;
   --greyLight-3: #595959;
   --greyDark: #dadada;
-  cursor: url("./images/darkmodeCursor.svg"), default;
 }
-*:link {
-  cursor: url("./images/darkModeCursorPointer.png");
-}
+
 html {
   color: var(--greyLight-3) !important;
+  cursor: url("./images/darkmodeCursor.svg"), default;
 }
 .stroke-text {
   text-shadow: none;
