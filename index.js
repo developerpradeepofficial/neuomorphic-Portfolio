@@ -66,7 +66,7 @@ function reveal() {
 
 window.addEventListener("scroll", reveal);
 
-// Load Animation
+// Loading Animation
 
 document.onreadystatechange = function () {
   if (document.readyState !== "complete") {
@@ -77,3 +77,7 @@ document.onreadystatechange = function () {
     document.querySelector("body").style.opacity = 1;
   }
 };
+
+// Footer Copyright Year
+let year = document.getElementById("year");
+year.innerHTML = new Date().getFullYear();
