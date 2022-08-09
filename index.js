@@ -65,3 +65,15 @@ function reveal() {
 }
 
 window.addEventListener("scroll", reveal);
+
+// Load Animation
+
+document.onreadystatechange = function () {
+  if (document.readyState !== "complete") {
+    document.querySelector("body").style.opacity = 0;
+    document.querySelector("#loader").style.opacity = 1;
+  } else {
+    document.querySelector("#loader").style.display = "none";
+    document.querySelector("body").style.opacity = 1;
+  }
+};
