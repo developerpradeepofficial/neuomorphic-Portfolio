@@ -12,7 +12,6 @@
 
 html {
   color: var(--greyLight-3) !important;
-  cursor: url("./images/darkmodeCursor.svg"), default;
 }
 .stroke-text {
   text-shadow: none;
