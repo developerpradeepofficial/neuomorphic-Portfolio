@@ -1,6 +1,7 @@
 # Neuomorphic Portfolio with Dark Mode
 
 This is a personal portfolio website built using Neuomorphic design principles, with a dark mode feature. The website is designed to showcase my skills, experience, and projects to potential clients and employers.
+here is the link of the page ![link to Portfolio](https://pradeepsaravanan.netlify.app/)
 # Features
 **1. Neuomorphic design:** The website is built using the latest Neuomorphic design principles, which give it a modern and sleek look.
 
@@ -17,7 +18,7 @@ The website is built using the following technologies:
 * CSS
 * JavaScript
 # Getting Started
-To get started with the website, simply download or clone the repository to your local machine. Then, open the ![index.html] file in your web browser to view the website.
+To get started with the website, simply download or clone the repository to your local machine. Then, open the ![index.html](https://github.com/developerpradeepofficial/neuomorphic-Portfolio/blob/main/index.html) file in your web browser to view the website.
 # License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 # Contact
