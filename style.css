@@ -441,6 +441,8 @@ nav {
 
 .skill-list {
   --gap: 3rem;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   margin-inline: auto;
   padding-block: 2rem;
