@@ -443,7 +443,6 @@ nav {
   --gap: 3rem;
   flex-wrap: wrap;
   margin-inline: auto;
-  width: max-content;
   padding-block: 2rem;
 }
 .skill-list span {
@@ -452,6 +451,7 @@ nav {
 .skill-list span > i {
   color: var(--primary);
   font-size: var(--fs-600);
+  margin-inline: auto;
 }
 
 /* Projects */
